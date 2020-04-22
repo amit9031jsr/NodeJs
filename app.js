@@ -1,4 +1,11 @@
-var message = '';
-console.log(global.message);
+//Global Object
 
-//undefined
+console.log()
+
+setTimeout()
+
+clearTimeout()
+
+setInterval()
+
+clearInterval()
