@@ -1,12 +1,3 @@
-//Global Object
+const log = require('./logger');
 
-console.log()
-
-setTimeout()
-
-clearTimeout()
-
-setInterval()
-
-clearInterval()
-
+log('Hello World');
